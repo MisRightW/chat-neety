@@ -1,0 +1,5 @@
+server:
+  port: 8888
+
+chat:
+  keys: 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
